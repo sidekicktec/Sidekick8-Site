@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://sidekick.tec.br</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
@@ -40,7 +40,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/contatos/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -62,7 +62,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/projeto/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -84,7 +84,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/sobre/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -106,7 +106,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/projetos/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -136,7 +136,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/ndi-limitimer-v2/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -150,7 +150,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/aplicativos/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -180,7 +180,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/servicos/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -210,7 +210,7 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/agendamentos/vt/visita-tecnica/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
@@ -224,13 +224,41 @@
 </url>
 <url>
 	<loc>https://sidekick.tec.br/agendamentos/agendamentos/</loc>
-	<lastmod>2023-12-29</lastmod>
+	<lastmod>2023-12-30</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://sidekick.tec.br/img/arrow.svg</image:loc>
 	<image:title>arrow</image:title>
 	</image:image>
+	<image:image>
+	<image:loc>https://sidekick.tec.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://sidekick.tec.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://sidekick.tec.br/visita-tecnica-1/</loc>
+	<lastmod>2023-12-30</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://sidekick.tec.br/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://sidekick.tec.br/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://sidekick.tec.br/loja/</loc>
+	<lastmod>2023-12-30</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
 	<image:image>
 	<image:loc>https://sidekick.tec.br/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
